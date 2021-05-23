@@ -1,0 +1,54 @@
+body{
+    background:white;
+    margin-left:10%;
+    margin-right:10%;
+    font-family:calibri;
+}
+
+a{
+    color:white;
+}
+
+h1{
+    color:#41484b;
+}
+
+h2{
+    color:#41484b;
+}
+
+h3{
+    color:#41484b;
+}
+
+p{
+    font-size:18px;
+    color:#41484b;
+}
+
+.back{
+    background-color:rgb(32,32,32);
+    width:20%;
+    height:10%;
+    margin-left:40%;
+    margin-right:40%;
+    display:flex;
+    box-shadow:none;
+    position:sticky;
+}
+
+.download{
+    background-color:rgb(32,32,32);
+    width:20%;
+    height:10%;
+    margin-left:40%;
+    margin-right:40%;
+    display:flex;
+    box-shadow:none;
+    position:sticky;
+}
+
+.dt{
+    margin-left:60%;
+    margin-right:60%;
+}
